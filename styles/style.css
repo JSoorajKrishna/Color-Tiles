@@ -1,0 +1,26 @@
+html{
+	background: black;
+	border: 25px solid deepskyblue;
+}
+h1
+{text-align:center;
+	color: green;
+	text-shadow: 5px 5px 2px sandybrown;
+	margin: 100px auto 10px;
+	/font-family: 'Pattaya', sans-serif;
+}
+img{
+display:block;
+margin:0 auto;
+border: 25px solid greenyellow;
+}
+body
+{font-family: 'Mate SC', serif;
+font-size:50px;
+color:white;
+letter-spacing: 3px;
+line-height: 75px;
+}
+ul:hover
+{color: red;
+}
