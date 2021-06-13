@@ -1,0 +1,50 @@
+td{
+	border: 5px solid black;
+	padding: 20px;
+	border-radius: 10px;
+}
+.green{
+	background: green;
+}
+.white{
+	background: white;
+}
+.yellow{
+	background: yellow;
+}
+.red{
+	background: red;
+}
+.blue{
+	background: blue;
+}
+table{
+	background-color: grey;
+}
+.given{
+	margin: 0 auto;
+	border: 5px solid grey;
+	border-radius: 10px;
+	padding: 5px;
+}
+.orange{
+	background: orange;
+}
+.black{
+	background: black;
+}
+span{
+	font-size: 25px;
+	color: #a5eb34;
+	font-family: 'Lora', serif;
+	}
+button{
+		border-radius: 3px;
+		font-family: 'Lora', serif;
+		border: 3px solid black;
+	}
+html{
+		background-color: dimgrey;
+		border: 10px outset saddlebrown;
+		margin: 0px;
+	}
